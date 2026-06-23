@@ -6,12 +6,12 @@
 
 **Building Future Digital Solutions**
 
-A software house based in Medan, Indonesia. We design and build custom websites, mobile apps, dashboards, and ERP systems from the ground up — fast, SEO-ready, and fully owned by our clients.
+Software house asal Medan, Indonesia. Kami merancang dan membangun website, aplikasi mobile, dashboard, dan sistem ERP custom dari nol — cepat, SEO-ready, dan kodenya 100% milik klien.
 
 <br/>
 
 <a href="https://afss.tech"><img src="https://img.shields.io/badge/Website-afss.tech-0E8C86?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-<a href="https://wa.me/628139694307"><img src="https://img.shields.io/badge/WhatsApp-Chat_with_us-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://wa.me/628139694307"><img src="https://img.shields.io/badge/WhatsApp-Konsultasi_Gratis-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 <a href="mailto:hendrik@afss.id"><img src="https://img.shields.io/badge/Email-hendrik@afss.id-15243B?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 <a href="https://instagram.com/afss.tech"><img src="https://img.shields.io/badge/Instagram-@afss.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
@@ -19,18 +19,18 @@ A software house based in Medan, Indonesia. We design and build custom websites,
 
 ---
 
-## What we build
+## 🧩 Yang kami bangun
 
-| Service | What it covers |
+| Layanan | Cakupan |
 | :-- | :-- |
-| 🌐 **Websites & Landing Pages** | Custom design, fast, SEO-ready from day one |
-| 📱 **Mobile Apps** | Android & iOS — native and Flutter |
-| 📊 **Web Apps & Dashboards** | Internal systems, real-time analytics, role-based access |
-| 🧩 **ERP & CRM** | Tailored to your business workflow |
-| 🛒 **E-Commerce & Marketplaces** | Payment gateway, inventory, multi-vendor |
-| 🛡️ **Maintenance & Support** | Monitoring, security updates, backups |
+| 🌐 **Website & Landing Page** | Desain custom, cepat, SEO-ready sejak hari pertama |
+| 📱 **Aplikasi Mobile** | Android & iOS — native dan Flutter |
+| 📊 **Web App & Dashboard** | Sistem internal, analitik real-time, hak akses (RBAC) |
+| 🧩 **ERP & CRM** | Disesuaikan dengan alur kerja bisnis Anda |
+| 🛒 **E-Commerce & Marketplace** | Payment gateway, manajemen stok, multi-vendor |
+| 🛡️ **Maintenance & Support** | Monitoring, update keamanan, backup berkala |
 
-## Tech we work with
+## 🛠️ Teknologi yang kami pakai
 
 <p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -47,22 +47,40 @@ A software house based in Medan, Indonesia. We design and build custom websites,
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-## Why AFSS
+## 💡 Kenapa AFSS
 
-- **You own the code** — clean, documented, no vendor lock-in
-- **Fast & SEO-ready** — high Core Web Vitals from the first commit
-- **Local team** — same timezone (WIB), responsive at every step
-- **Transparent** — clear pricing and timeline, no hidden surprises
+- **Kode milik Anda** — bersih, terdokumentasi, tanpa vendor lock-in
+- **Cepat & SEO-ready** — Core Web Vitals tinggi sejak commit pertama
+- **Tim lokal** — zona waktu sama (WIB), komunikasi responsif
+- **Transparan** — harga dan timeline jelas, tanpa biaya tersembunyi
 
-## By the numbers
+## 📊 Angka kami
 
-`100+ projects delivered`  •  `50+ companies served`  •  `100% client-owned code`  •  `24/7 maintenance`
+`100+ proyek selesai`  •  `50+ perusahaan dipercaya`  •  `100% kode milik klien`  •  `24/7 maintenance`
 
-## Get in touch
+## 📬 Hubungi kami
 
 - 🌐 Website — **[afss.tech](https://afss.tech)**
 - 💬 WhatsApp — **[+62 813-9694-307](https://wa.me/628139694307)**
 - ✉️ Email — **hendrik@afss.id**
 - 📍 Medan, Sumatera Utara, Indonesia
+
+<details>
+<summary><b>🇬🇧 Read in English</b></summary>
+
+<br/>
+
+**Building Future Digital Solutions** — a software house based in Medan, Indonesia. We design and build custom websites, mobile apps, dashboards, and ERP systems from the ground up — fast, SEO-ready, and fully owned by our clients.
+
+- **Websites & Landing Pages** — custom, fast, SEO-ready from day one
+- **Mobile Apps** — Android & iOS (native & Flutter)
+- **Web Apps & Dashboards** — internal systems, real-time analytics, RBAC
+- **ERP & CRM** — tailored to your business workflow
+- **E-Commerce & Marketplaces** — payment gateway, inventory, multi-vendor
+- **Maintenance & Support** — monitoring, security updates, backups
+
+Contact — [afss.tech](https://afss.tech) · WhatsApp [+62 813-9694-307](https://wa.me/628139694307) · hendrik@afss.id · Medan, Indonesia
+
+</details>
 
 <div align="center"><br/><sub>© AFSS · PT Advanced Future Software Solutions · Building Future Digital Solutions</sub></div>

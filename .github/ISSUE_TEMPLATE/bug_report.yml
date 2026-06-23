@@ -1,0 +1,32 @@
+name: 🐞 Laporan Bug
+description: Laporkan masalah atau error yang Anda temui.
+labels: [bug]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Apa yang terjadi?
+      description: Jelaskan masalahnya sejelas mungkin.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Langkah untuk mereproduksi
+      placeholder: |
+        1. Buka '...'
+        2. Klik '...'
+        3. Muncul error '...'
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Yang diharapkan
+    validations:
+      required: false
+  - type: input
+    id: env
+    attributes:
+      label: Perangkat / Browser
+      placeholder: mis. Chrome di Android 13
