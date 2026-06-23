@@ -62,7 +62,7 @@ Software house asal Medan, Indonesia. Kami merancang dan membangun website, apli
 
 - 🌐 Website — **[afss.tech](https://afss.tech)**
 - 💬 WhatsApp — **[+62 813-9694-307](https://wa.me/628139694307)**
-- ✉️ Email — **hendrik@afss.id**
+- ✉️ Email — **hendrik@afss.tech**
 - 📍 Medan, Sumatera Utara, Indonesia
 
 <details>
