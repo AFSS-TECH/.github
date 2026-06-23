@@ -12,7 +12,7 @@ Software house asal Medan, Indonesia. Kami merancang dan membangun website, apli
 
 <a href="https://afss.tech"><img src="https://img.shields.io/badge/Website-afss.tech-0E8C86?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://wa.me/628139694307"><img src="https://img.shields.io/badge/WhatsApp-Konsultasi_Gratis-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="mailto:hendrik@afss.id"><img src="https://img.shields.io/badge/Email-hendrik@afss.id-15243B?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+<a href="mailto:hendrik@afss.tech"><img src="https://img.shields.io/badge/Email-hendrik@afss.id-15243B?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 <a href="https://instagram.com/afss.tech"><img src="https://img.shields.io/badge/Instagram-@afss.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 </div>
